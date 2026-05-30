@@ -1,1 +1,26 @@
 # Wildtype-and-Mutant-p53-complex-analysis
+## Overview
+[1-2 sentences: What is this project? Why does it matter?]
+
+## Research Question
+What are the effects of the mutations on residues 121 and 122?
+
+## Methods
+- PDB files used (3TS8.pdb, 4MZR.pdb)
+- Analysis approach (distance calculations, residue contact mapping, etc.)
+- Tools/languages (Python, matplotlib, numpy)
+
+## Files
+- `p53_mutant_analysis.py` — main analysis script
+- `3TS8.pdb`, `4MZR.pdb` — structure files (provide link to RCSB if large)
+- `p53_mutation_binding_analysis.png` — visualization
+- `analysis_writeup.md` — detailed findings
+
+## Key Findings
+[Bullet points of your main results:
+- V122G causes 2.36 Å shift inward
+- 14 residues contact DNA in both structures
+- Mixed effects: 3 residues improve contact, 3 lose contact
+- etc.]
+
+## How to Run
