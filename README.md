@@ -14,7 +14,7 @@ What are the effects of the mutations on residues 121 and 122?
 - p53_mutant_analysis.py 
 - 3TS8.pdb
 - 4MZR.pdb
-- p53_mutation_binding_analysis.png
+- p53_mutation_binding_analysis.png (interactive model avaliable if python file is ran)
 - analysis_writeup.pdf
 ## Key Findings
 
