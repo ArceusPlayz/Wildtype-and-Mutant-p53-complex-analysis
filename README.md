@@ -1,6 +1,8 @@
 # Wildtype-and-Mutant-p53-complex-analysis
 ## Overview
 Analyzed and modeled how the distance between the p53 and the DNA molecule changed in reference to the the wildtype complex. The significance of this project stems from sees how mutations in the structural part of the protein has effects that cascade across the whole DNA-protein complex.
+<img width="3608" height="2966" alt="p53_mutation_binding_analysis" src="https://github.com/user-attachments/assets/4ed4f819-fdb8-452a-917a-927838d1276e" />
+
 
 ## Research Question
 What are the effects of the mutations on residues 121 and 122?
